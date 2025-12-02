@@ -57,6 +57,6 @@ Changes not showing on GitHub:
 
 **Need Help?**
 
-Review the GitHub documentation
-Ask questions in class or during office hours
-Check with your classmates (collaboration on learning git is encouraged!)
+- Review the GitHub documentation
+- Ask questions in class 
+- Check with your classmates (collaboration on learning git is encouraged!)
